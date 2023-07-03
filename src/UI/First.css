@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 5px;
+}
+
+.one{
+    color: #FFFF;
+    font-size: 15px;
+padding-top: 20px;
+
+}
+
+h1{
+    color: #7A8A99;
+}
+.usdc{
+    color: #FFFF;
+
+    font-size: 2rem;
+ 
+}
+.two{
+    display: flex;
+    /* justify-content: space-between; */
+
+}
+.p2{
+    font-size: 10px;
+    width: 100%;
+}
+
+.num{
+    font-size: 10px;
+}
+.green{
+color: #00D395;
+}
+ .purple{
+    color: #7454B8;
+ }
+.s1{
+    color: #7A8A99;
+    font-size: 2rem;
+}
+ .cal1{
+    font-size: 30px;
+    font-weight: bold;
+    color: #FFFF;
+   
+ }
+ .cal{
+    font-size: 30px;
+    font-weight: bold;
+    color: #FFFF;
+ }
+

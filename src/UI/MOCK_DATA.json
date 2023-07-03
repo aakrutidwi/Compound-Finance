@@ -1,0 +1,67 @@
+[
+  {
+    "Collateral Asset": "Compound",
+    "Total Supply": "Litas",
+    "Oracle Price": "$30,155.54",
+    "Reserves": "$0.02",
+    "Collateral Factor": "47%",
+    "Liquidation Factor":"$0.02",
+    "Liquidation Penalty": "5%"
+  },
+  {
+    "Collateral Asset": "Ether",
+    "Total Supply": "Hryvnia",
+    "Oracle Price": "$1,866.25",
+    "Reserves": "$0.00",
+    "Collateral Factor": "55%",
+    "Liquidation Factor": "27",
+    "Liquidation Penalty": "12%"
+  },
+  {
+    "Collateral Asset": "Chainlink",
+    "Total Supply": "Peso",
+    "Oracle Price": "$30,155.54",
+    "Reserves": "$0.02",
+    "Collateral Factor": "60%",
+    "Liquidation Factor": "6",
+    "Liquidation Penalty": "7%"
+  },
+  {
+    "Collateral Asset": "Wrapped Bitcoin",
+    "Total Supply": "Zloty",
+    "Oracle Price": "$6.12",
+    "Reserves": "$0.01",
+    "Collateral Factor": "70%",
+    "Liquidation Factor": "22",
+    "Liquidation Penalty": "8%"
+  },
+  {
+    "Collateral Asset": "Compound",
+    "Total Supply": "Krone",
+    "Oracle Price": "$55.03",
+    "Reserves": "$0.00",
+    "Collateral Factor": "37%",
+    "Liquidation Factor": "33",
+    "Liquidation Penalty": "13%"
+    
+  },
+
+  {
+    "Collateral Asset": "Chainlink",
+    "Total Supply": "Yuan Renminbi",
+    "Oracle Price": "$1,866.25",
+    "Reserves": "$0.02",
+    "Collateral Factor":"75%",
+    "Liquidation Factor":" 65",
+    "Liquidation Penalty": "10%"
+  },
+  {
+    "Collateral Asset": "Wrapped Bitcoin",
+    "Total Supply": "Peso",
+    "Oracle Price": "$55.03",
+    "Reserves": "$0.00",
+    "Collateral Factor": "89%",
+    "Liquidation Factor":" 62",
+    "Liquidation Penalty": "45"
+  }
+]

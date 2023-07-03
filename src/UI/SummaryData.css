@@ -1,0 +1,60 @@
+.Summary{
+   background-color: #1D2833;
+   display: flex;
+    border-radius: 8px;
+}
+
+.data{
+    display: flex;
+    align-items: center
+    ;
+
+}
+
+
+.num1{
+  display: grid;
+  grid: 100px / auto auto auto auto;
+    width: 60%;
+   
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+ 
+}
+.title{
+    color: #7A7968;
+    font-size: 0.8rem;
+}
+.data{
+    color: #fff;
+}
+
+.middle{
+    position: relative;
+}
+.last{
+    position: absolute;
+    top: -6;
+}
+.card1{
+    display: flex;
+    flex-direction: column;
+}
+
+.one{
+    color: #fff;
+    font-size: 8px;
+}
+
+.two{
+    color: #089973;
+    font-size: 8px;
+}
+
+.three{
+    color: #8762F1;
+    font-size:8px;
+}
